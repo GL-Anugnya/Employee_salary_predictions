@@ -16,3 +16,11 @@ Install dependencies:
 
 ```bash
 pip install pandas matplotlib seaborn scikit-learn joblib streamlit
+
+## Run the App
+
+To launch the web application locally, use the following command:
+
+```bash
+streamlit run app.py
+
